@@ -42,3 +42,6 @@ conda create -n interview python=3.10 -y
 ```bash
  conda activate interview
  ```
+
+### How to Create Artictecture diagram 
+``` https://whimsical.com/my-files-Vsht9KuGm2WYcRKCMNxSoL ```
