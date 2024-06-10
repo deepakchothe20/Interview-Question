@@ -44,3 +44,11 @@ conda create -n interview python=3.10 -y
 
 ### How to Create Artictecture diagram 
 ``` https://whimsical.com/my-files-Vsht9KuGm2WYcRKCMNxSoL ```
+
+## Project File Structure
+
+![Project File Structure](image/Project File Structure.png)
+
+## Project File Structure
+
+![Project File Structure](image/Model Structure.png)
