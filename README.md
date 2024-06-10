@@ -52,3 +52,4 @@ conda create -n interview python=3.10 -y
 ## Project File Structure
 
 ![Project File Structure](image/Model Structure.png)
+<img src="image/Model Structure.png" alt="Project File Structure" width="200" height="200">
